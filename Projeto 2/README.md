@@ -37,7 +37,6 @@ Agora que tem as ferramentas, vamos buscar o projeto e ligá-lo.
    ```cmd
    git clone https://github.com/bdist/bdist-workspace.git
    ```
-   *(Nota: Coloque aqui o link do seu próprio repositório Github se tiver feito um fork ou um repositório próprio)*
 3. Entre na pasta que acabou de descarregar:
    ```cmd
    cd bdist-workspace
